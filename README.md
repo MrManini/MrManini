@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Kevin
 
 🎓 I'm an Electronics and Computer Science student from Barranquilla, Colombia.
-💻 I love building cool things with code and circuits — from smart hardware to software that just works.  
+
+💻 I love building cool things with code and circuits — from smart hardware to software that just works.
+
 🔧 Currently working on: a Smart Chessboard project for my Final Project in uni. 🧠♟️
 
 ## ⚡ What I Like
